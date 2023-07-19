@@ -53,6 +53,21 @@
     <Compile Include="7.cs" />
     <Compile Include="8.cs" />
     <Compile Include="9.cs" />
+    <Compile Include="l1.cs" />
+    <Compile Include="l10.cs" />
+    <Compile Include="l11.cs" />
+    <Compile Include="l12.cs" />
+    <Compile Include="l13.cs" />
+    <Compile Include="l14.cs" />
+    <Compile Include="l15.cs" />
+    <Compile Include="l2.cs" />
+    <Compile Include="l3.cs" />
+    <Compile Include="l4.cs" />
+    <Compile Include="l5.cs" />
+    <Compile Include="l6.cs" />
+    <Compile Include="l7.cs" />
+    <Compile Include="l8.cs" />
+    <Compile Include="l9.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
